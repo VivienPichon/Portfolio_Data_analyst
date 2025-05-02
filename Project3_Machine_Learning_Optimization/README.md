@@ -1,6 +1,6 @@
 # Portfolio3_ML_Algorithm_Optimization_and_Comparison
 
-Here I test and optimize several machine learning algorithm to predict continuous and categorical values. You can check the full code in the [notebook 1](https://github.com/VivienPichon/Portfolio_Data_analyst/blob/clean/Project3_Machine_Learning_Optimization/Notebook_1_analysis_and_model_choice.ipynb) and [notebook 2](https://github.com/VivienPichon/Portfolio_Data_analyst/blob/clean/Project3_Machine_Learning_Optimization/Notebook2_note_validity_prediction.ipynb). The slides I used for my defense are available [here](https://github.com/VivienPichon/Portfolio_Data_analyst/blob/clean/Project3_Machine_Learning_Optimization/Results_presentation_slides.pdf).
+Here I test and optimize several machine learning algorithm to predict continuous and categorical values. You can check the full code in the [notebook 1](https://github.com/VivienPichon/Portfolio_Data_analyst/blob/clean/Project3_Machine_Learning_Optimization/Notebook_1_analysis_and_model_choice.ipynb) and [notebook 2](https://github.com/VivienPichon/Portfolio_Data_analyst/blob/clean/Project3_Machine_Learning_Optimization/Notebook_2_note_validity_prediction.ipynb). The slides I used for my defense are available [here](https://github.com/VivienPichon/Portfolio_Data_analyst/blob/clean/Project3_Machine_Learning_Optimization/Results_presentation_slides.pdf).
 
 In this portfolio I use several supervised blackbox ML models, a supervised glassbox model and an unsupervised blackbox model. 
 Hyperparameter optimization is made with a 2-step Bayeseian search. 
