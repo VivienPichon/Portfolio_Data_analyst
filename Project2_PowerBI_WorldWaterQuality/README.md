@@ -1,4 +1,4 @@
-# Portfolio2_PowerBI_WorldWaterQuality
+# Project2_PowerBI_WorldWaterQuality
 
 ## Roleplay context
 In this project I am working in a NGO, which works on giving access to safe water to people around the world. They need a decision-making tool to help them decide in which country they should start new projects, and the nature of the project which should be done in these countries. 
