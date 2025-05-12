@@ -1,3 +1,7 @@
+# Dashboard presentation
+The dashboard itself can be downloaded from [this link][1].
+A link to a 9-minutes video presenting the dashboard is available [here][2].
+
 # Roleplay context
 
 In this project, I work for a multinational company, which drives several IT and marketing projects all around the world.
@@ -26,10 +30,6 @@ I was provided with an Excel spreadsheet with several tables of fictional data:
 - Calculate new variables with PowerQuery and DAX (End date of each project, ratio between planned and actual indicators...)
 - Create an comprehensive and interactive dashboard, which can be filtered using on-page filters and the drill-through feature.
 
-# Dashboard presentation
-The dashboard itself can be downloaded from [this link][1].
-A link to a short video presenting the dashboard is coming soon.
-
 
 [1]: https://github.com/VivienPichon/Portfolio_Data_analyst/blob/4d8d5fbbfe1445411e6f59e7631d98730b6124ed/Project6_PowerBI_Company_Projects_Managements/Project_Management_dashboard.pbix
-
+[2]: https://www.loom.com/share/b54d6687fac24a60b9d48e599ab5a2f7?sid=dda38434-5677-48ab-a364-28efd4c46c9b
